@@ -28,12 +28,12 @@ pcap_writer = PcapWriter("./bigFlows_aggregated.pcap")
 
 
 # generate
-src_ips = ["0.0.0.0"] * design_flow_count
-dst_ips = ["0.0.0.0"] * design_flow_count
-sports = [0] * design_flow_count
-dports = [0] * design_flow_count
+tuple_list = []
+# dst_ips = ["0.0.0.0"] * design_flow_count
+# sports = [0] * design_flow_count
+# dports = [0] * design_flow_count
 
-flow_syn = [False] * design_flow_count
+# flow_syn = [False] * design_flow_count
 
 
 
@@ -43,17 +43,20 @@ while True:
     if pkt == None:
         break
     if TCP in pkt:
-        hash_val = hash_pkt(pkt)
-        if  pkt[TCP].flags & SYN:
-            src_ips[hash_val] = pkt[IP].src
-            dst_ips[hash_val] = pkt[IP].dst
-            sports[hash_val] = pkt[TCP].sport
-            dports[hash_val] = pkt[TCP].dport
-            flow_syn[hash_val] = True
-            print("Bucket " + str(hash_val) + " has been set")
+        pkt_tuple = (pkt[IP].src, pkt[IP].dst, pkt[TCP].sport, pkt[TCP].dport) 
+        if pkt[TCP].flags & SYN:
+            tuple_list.append( pkt_tuple )
+
+
+            # src_ips[hash_val] = pkt[IP].src
+            # dst_ips[hash_val] = pkt[IP].dst
+            # sports[hash_val] = pkt[TCP].sport
+            # dports[hash_val] = pkt[TCP].dport
+            # flow_syn[hash_val] = True
+            print("Bucket " + str(pkt_tuple) + " has been set")
             pcap_writer.write(pkt)
         else:
-            if flow_syn[hash_val]:
+            if pkt_tuple in tuple_list:
                 pcap_writer.write(pkt)
 
 
