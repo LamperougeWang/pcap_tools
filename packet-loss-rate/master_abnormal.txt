@@ -1,0 +1,1305 @@
+  CC pktgen.o
+  LD pktgen
+  INSTALL-APP pktgen
+  INSTALL-MAP pktgen.map
+EAL: Probing VFIO support...
+EAL: PCI device 0000:82:00.0 on NUMA socket 1
+EAL:   probe driver: 8086:10fb net_ixgbe
+EAL: PCI device 0000:82:00.1 on NUMA socket 1
+EAL:   probe driver: 8086:10fb net_ixgbe
+PMD: ixgbe_dev_link_status_print():  Port 0: Link Down
+Port 0 MAC: 90 e2 ba 15 42 50
+PMD: ixgbe_dev_link_status_print(): Port 1: Link Up - speed 0 Mbps - half-duplex
+Port 1 MAC: 90 e2 ba 15 42 51
+hz: 2399987786, lcore: 5
+
+Core 5 forwarding packets. [Ctrl+C to quit]
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+processing arp request
+2.9.16.172
+1.9.16.172
+processing arp request end!
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 0, tx_byte: 0
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 0, tx_pkts: 0
+rx_new_flow_sec: 0, rx_new_flow_now: 0
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 0
+
+rx_throughput: 196 Mbps, tx_throughput: 196 Mbps
+rx_byte: 25804153, tx_byte: 25816855
+rx_pkts_sec: 33401, tx_pkt_sec: 33418
+rx_pkts: 33401, tx_pkts: 33418
+rx_new_flow_sec: 12271, rx_new_flow_now: 12271
+2rx_new_flow_sec: 12271, 2rx_new_flow_now: 12271
+
+rx_throughput: 358 Mbps, tx_throughput: 358 Mbps
+rx_byte: 72730590, tx_byte: 72743110
+rx_pkts_sec: 60688, tx_pkt_sec: 60704
+rx_pkts: 94089, tx_pkts: 94122
+rx_new_flow_sec: 15836, rx_new_flow_now: 28107
+2rx_new_flow_sec: 15833, 2rx_new_flow_now: 28104
+
+rx_throughput: 376 Mbps, tx_throughput: 376 Mbps
+rx_byte: 122051875, tx_byte: 122079598
+rx_pkts_sec: 65083, tx_pkt_sec: 65105
+rx_pkts: 159172, tx_pkts: 159227
+rx_new_flow_sec: 14726, rx_new_flow_now: 42833
+2rx_new_flow_sec: 14726, 2rx_new_flow_now: 42830
+
+rx_throughput: 433 Mbps, tx_throughput: 433 Mbps
+rx_byte: 178873437, tx_byte: 178893205
+rx_pkts_sec: 71963, tx_pkt_sec: 71977
+rx_pkts: 231135, tx_pkts: 231204
+rx_new_flow_sec: 14860, rx_new_flow_now: 57693
+2rx_new_flow_sec: 14856, 2rx_new_flow_now: 57686
+
+rx_throughput: 428 Mbps, tx_throughput: 428 Mbps
+rx_byte: 235092744, tx_byte: 235119215
+rx_pkts_sec: 72205, tx_pkt_sec: 72214
+rx_pkts: 303340, tx_pkts: 303418
+rx_new_flow_sec: 13872, rx_new_flow_now: 71565
+2rx_new_flow_sec: 13877, 2rx_new_flow_now: 71563
+
+rx_throughput: 417 Mbps, tx_throughput: 418 Mbps
+rx_byte: 289876058, tx_byte: 289908374
+rx_pkts_sec: 71267, tx_pkt_sec: 71279
+rx_pkts: 374607, tx_pkts: 374697
+rx_new_flow_sec: 14025, rx_new_flow_now: 85590
+2rx_new_flow_sec: 14026, 2rx_new_flow_now: 85589
+
+rx_throughput: 397 Mbps, tx_throughput: 397 Mbps
+rx_byte: 342016052, tx_byte: 342048289
+rx_pkts_sec: 69316, tx_pkt_sec: 69330
+rx_pkts: 443923, tx_pkts: 444027
+rx_new_flow_sec: 13096, rx_new_flow_now: 98686
+2rx_new_flow_sec: 13096, 2rx_new_flow_now: 98685
+
+rx_throughput: 397 Mbps, tx_throughput: 397 Mbps
+rx_byte: 342016052, tx_byte: 342048289
+rx_pkts_sec: 69316, tx_pkt_sec: 69330
+rx_pkts: 443923, tx_pkts: 444027
+rx_new_flow_sec: 13096, rx_new_flow_now: 98686
+2rx_new_flow_sec: 13096, 2rx_new_flow_now: 98685
+
+rx_throughput: 397 Mbps, tx_throughput: 397 Mbps
+rx_byte: 342016052, tx_byte: 342048289
+rx_pkts_sec: 69316, tx_pkt_sec: 69330
+rx_pkts: 443923, tx_pkts: 444027
+rx_new_flow_sec: 13096, rx_new_flow_now: 98686
+2rx_new_flow_sec: 13096, 2rx_new_flow_now: 98685
+
+rx_throughput: 397 Mbps, tx_throughput: 397 Mbps
+rx_byte: 342016052, tx_byte: 342048289
+rx_pkts_sec: 69316, tx_pkt_sec: 69330
+rx_pkts: 443923, tx_pkts: 444027
+rx_new_flow_sec: 13096, rx_new_flow_now: 98686
+2rx_new_flow_sec: 13096, 2rx_new_flow_now: 98685
+
+RX_THROUGhput: 397 Mbps, tx_throughput: 397 Mbps
+rx_byte: 342016052, tx_byte: 342048289
+rx_pkts_sec: 69316, tx_pkt_sec: 69330
+rx_pkts: 443923, tx_pkts: 444027
+rx_new_flow_sec: 13096, rx_new_flow_now: 98686
+2rx_new_flow_sec: 13096, 2rx_new_flow_now: 98685
+
+rx_throughput: 397 Mbps, tx_throughput: 397 Mbps
+rx_byte: 342016052, tx_byte: 342048289
+rx_pkts_sec: 69316, tx_pkt_sec: 69330
+rx_pkts: 443923, tx_pkts: 444027
+rx_new_flow_sec: 13096, rx_new_flow_now: 98686
+2rx_new_flow_sec: 13096, 2rx_new_flow_now: 98685
+
+rx_throughput: 397 Mbps, tx_throughput: 397 Mbps
+rx_byte: 342016052, tx_byte: 342048289
+rx_pkts_sec: 69316, tx_pkt_sec: 69330
+rx_pkts: 443923, tx_pkts: 444027
+rx_new_flow_sec: 13096, rx_new_flow_now: 98686
+2rx_new_flow_sec: 13096, 2rx_new_flow_now: 98685
+
+rx_throughput: 397 Mbps, tx_throughput: 397 Mbps
+rx_byte: 342016052, tx_byte: 342048289
+rx_pkts_sec: 69316, tx_pkt_sec: 69330
+rx_pkts: 443923, tx_pkts: 444027
+rx_new_flow_sec: 13096, rx_new_flow_now: 98686
+2rx_new_flow_sec: 13096, 2rx_new_flow_now: 98685
+
+rx_throughput: 397 Mbps, tx_throughput: 397 Mbps
+rx_byte: 342016052, tx_byte: 342048289
+rx_pkts_sec: 69316, tx_pkt_sec: 69330
+rx_pkts: 443923, tx_pkts: 444027
+rx_new_flow_sec: 13096, rx_new_flow_now: 98686
+2rx_new_flow_sec: 13096, 2rx_new_flow_now: 98685
+
+rx_throughput: 406 Mbps, tx_throughput: 406 Mbps
+rx_byte: 395344128, tx_byte: 395393572
+rx_pkts_sec: 69097, tx_pkt_sec: 69120
+rx_pkts: 513020, tx_pkts: 513147
+rx_new_flow_sec: 12055, rx_new_flow_now: 110741
+2rx_new_flow_sec: 12053, 2rx_new_flow_now: 110738
+
+rx_throughput: 403 Mbps, tx_throughput: 403 Mbps
+rx_byte: 448212713, tx_byte: 448273020
+rx_pkts_sec: 69078, tx_pkt_sec: 69103
+rx_pkts: 582098, tx_pkts: 582250
+rx_new_flow_sec: 12563, rx_new_flow_now: 123304
+2rx_new_flow_sec: 12565, 2rx_new_flow_now: 123303
+
+rx_throughput: 417 Mbps, tx_throughput: 417 Mbps
+rx_byte: 502903879, tx_byte: 502960068
+rx_pkts_sec: 72435, tx_pkt_sec: 72447
+rx_pkts: 654533, tx_pkts: 654697
+rx_new_flow_sec: 14936, rx_new_flow_now: 138240
+2rx_new_flow_sec: 14937, 2rx_new_flow_now: 138240
+
+rx_throughput: 421 Mbps, tx_throughput: 421 Mbps
+rx_byte: 558128654, tx_byte: 558186007
+rx_pkts_sec: 72260, tx_pkt_sec: 72281
+rx_pkts: 726793, tx_pkts: 726978
+rx_new_flow_sec: 12882, rx_new_flow_now: 151122
+2rx_new_flow_sec: 12879, 2rx_new_flow_now: 151119
+
+rx_throughput: 431 Mbps, tx_throughput: 431 Mbps
+rx_byte: 614710352, tx_byte: 614767346
+rx_pkts_sec: 72107, tx_pkt_sec: 72117
+rx_pkts: 798900, tx_pkts: 799095
+rx_new_flow_sec: 13097, rx_new_flow_now: 164219
+2rx_new_flow_sec: 13099, 2rx_new_flow_now: 164218
+
+rx_throughput: 421 Mbps, tx_throughput: 421 Mbps
+rx_byte: 669910902, tx_byte: 669972081
+rx_pkts_sec: 72217, tx_pkt_sec: 72236
+rx_pkts: 871117, tx_pkts: 871331
+rx_new_flow_sec: 13542, rx_new_flow_now: 177761
+2rx_new_flow_sec: 13542, 2rx_new_flow_now: 177760
+
+rx_throughput: 416 Mbps, tx_throughput: 416 Mbps
+rx_byte: 724494132, tx_byte: 724579336
+rx_pkts_sec: 72193, tx_pkt_sec: 72228
+rx_pkts: 943310, tx_pkts: 943559
+rx_new_flow_sec: 13958, rx_new_flow_now: 191719
+2rx_new_flow_sec: 13959, 2rx_new_flow_now: 191719
+
+rx_throughput: 419 Mbps, tx_throughput: 419 Mbps
+rx_byte: 779486681, tx_byte: 779585133
+rx_pkts_sec: 71818, tx_pkt_sec: 71850
+rx_pkts: 1015128, tx_pkts: 1015409
+rx_new_flow_sec: 13164, rx_new_flow_now: 204883
+2rx_new_flow_sec: 13161, 2rx_new_flow_now: 204880
+
+rx_throughput: 417 Mbps, tx_throughput: 417 Mbps
+rx_byte: 834159627, tx_byte: 834249827
+rx_pkts_sec: 72418, tx_pkt_sec: 72429
+rx_pkts: 1087546, tx_pkts: 1087838
+rx_new_flow_sec: 13113, rx_new_flow_now: 217996
+2rx_new_flow_sec: 13116, 2rx_new_flow_now: 217996
+
+rx_throughput: 408 Mbps, tx_throughput: 408 Mbps
+rx_byte: 887756340, tx_byte: 887849264
+rx_pkts_sec: 72472, tx_pkt_sec: 72494
+rx_pkts: 1160018, tx_pkts: 1160332
+rx_new_flow_sec: 12875, rx_new_flow_now: 230871
+2rx_new_flow_sec: 12870, 2rx_new_flow_now: 230866
+
+rx_throughput: 413 Mbps, tx_throughput: 413 Mbps
+rx_byte: 941975607, tx_byte: 942090971
+rx_pkts_sec: 72537, tx_pkt_sec: 72583
+rx_pkts: 1232555, tx_pkts: 1232915
+rx_new_flow_sec: 13172, rx_new_flow_now: 244043
+2rx_new_flow_sec: 13175, 2rx_new_flow_now: 244041
+
+rx_throughput: 423 Mbps, tx_throughput: 423 Mbps
+rx_byte: 997427547, tx_byte: 997539447
+rx_pkts_sec: 72349, tx_pkt_sec: 72367
+rx_pkts: 1304904, tx_pkts: 1305282
+rx_new_flow_sec: 12133, rx_new_flow_now: 256176
+2rx_new_flow_sec: 12132, 2rx_new_flow_now: 256173
+
+rx_throughput: 414 Mbps, tx_throughput: 414 Mbps
+rx_byte: 1051742444, tx_byte: 1051868445
+rx_pkts_sec: 72070, tx_pkt_sec: 72111
+rx_pkts: 1376974, tx_pkts: 1377393
+rx_new_flow_sec: 12220, rx_new_flow_now: 268396
+2rx_new_flow_sec: 12223, 2rx_new_flow_now: 268396
+
+rx_throughput: 400 Mbps, tx_throughput: 400 Mbps
+rx_byte: 1104178893, tx_byte: 1104301719
+rx_pkts_sec: 69199, tx_pkt_sec: 69236
+rx_pkts: 1446173, tx_pkts: 1446629
+rx_new_flow_sec: 11943, rx_new_flow_now: 280339
+2rx_new_flow_sec: 11943, 2rx_new_flow_now: 280339
+
+rx_throughput: 396 Mbps, tx_throughput: 404 Mbps
+rx_byte: 1156187325, tx_byte: 1157264767
+rx_pkts_sec: 67864, tx_pkt_sec: 69090
+rx_pkts: 1514037, tx_pkts: 1515719
+rx_new_flow_sec: 11567, rx_new_flow_now: 291906
+2rx_new_flow_sec: 11393, 2rx_new_flow_now: 291732
+
+rx_throughput: 301 Mbps, tx_throughput: 399 Mbps
+rx_byte: 1195648870, tx_byte: 1209652301
+rx_pkts_sec: 52007, tx_pkt_sec: 69354
+rx_pkts: 1566044, tx_pkts: 1585073
+rx_new_flow_sec: 11783, rx_new_flow_now: 303689
+2rx_new_flow_sec: 8764, 2rx_new_flow_now: 300496
+
+rx_throughput: 301 Mbps, tx_throughput: 400 Mbps
+rx_byte: 1235223833, tx_byte: 1262154450
+rx_pkts_sec: 52004, tx_pkt_sec: 69254
+rx_pkts: 1618048, tx_pkts: 1654327
+rx_new_flow_sec: 11641, rx_new_flow_now: 315330
+2rx_new_flow_sec: 8815, 2rx_new_flow_now: 309311
+
+rx_throughput: 302 Mbps, tx_throughput: 413 Mbps
+rx_byte: 1274850174, tx_byte: 1316374258
+rx_pkts_sec: 51196, tx_pkt_sec: 69139
+rx_pkts: 1669244, tx_pkts: 1723466
+rx_new_flow_sec: 11858, rx_new_flow_now: 327188
+2rx_new_flow_sec: 8783, 2rx_new_flow_now: 318094
+
+rx_throughput: 389 Mbps, tx_throughput: 430 Mbps
+rx_byte: 1325864067, tx_byte: 1372759481
+rx_pkts_sec: 64703, tx_pkt_sec: 71595
+rx_pkts: 1733947, tx_pkts: 1795061
+rx_new_flow_sec: 11719, rx_new_flow_now: 338907
+2rx_new_flow_sec: 11217, 2rx_new_flow_now: 329311
+
+rx_throughput: 405 Mbps, tx_throughput: 424 Mbps
+rx_byte: 1378971515, tx_byte: 1428415612
+rx_pkts_sec: 68527, tx_pkt_sec: 71437
+rx_pkts: 1802474, tx_pkts: 1866498
+rx_new_flow_sec: 11832, rx_new_flow_now: 350739
+2rx_new_flow_sec: 11834, 2rx_new_flow_now: 341145
+
+rx_throughput: 400 Mbps, tx_throughput: 414 Mbps
+rx_byte: 1431483372, tx_byte: 1482758743
+rx_pkts_sec: 70153, tx_pkt_sec: 72156
+rx_pkts: 1872627, tx_pkts: 1938654
+rx_new_flow_sec: 12251, rx_new_flow_now: 362990
+2rx_new_flow_sec: 12248, 2rx_new_flow_now: 353393
+
+rx_throughput: 403 Mbps, tx_throughput: 418 Mbps
+rx_byte: 1484427329, tx_byte: 1537624329
+rx_pkts_sec: 70489, tx_pkt_sec: 72311
+rx_pkts: 1943116, tx_pkts: 2010965
+rx_new_flow_sec: 12338, rx_new_flow_now: 375328
+2rx_new_flow_sec: 12340, 2rx_new_flow_now: 365733
+
+rx_throughput: 404 Mbps, tx_throughput: 416 Mbps
+rx_byte: 1537468659, tx_byte: 1592161381
+rx_pkts_sec: 70595, tx_pkt_sec: 72192
+rx_pkts: 2013711, tx_pkts: 2083157
+rx_new_flow_sec: 11571, rx_new_flow_now: 386899
+2rx_new_flow_sec: 11572, 2rx_new_flow_now: 377305
+
+rx_throughput: 385 Mbps, tx_throughput: 397 Mbps
+rx_byte: 1588061771, tx_byte: 1644218475
+rx_pkts_sec: 68625, tx_pkt_sec: 70122
+rx_pkts: 2082336, tx_pkts: 2153279
+rx_new_flow_sec: 11502, rx_new_flow_now: 398401
+2rx_new_flow_sec: 11502, 2rx_new_flow_now: 388807
+
+rx_throughput: 390 Mbps, tx_throughput: 399 Mbps
+rx_byte: 1639293257, tx_byte: 1696591346
+rx_pkts_sec: 68111, tx_pkt_sec: 69216
+rx_pkts: 2150447, tx_pkts: 2222495
+rx_new_flow_sec: 11753, rx_new_flow_now: 410154
+2rx_new_flow_sec: 11752, 2rx_new_flow_now: 400559
+
+rx_throughput: 398 Mbps, tx_throughput: 407 Mbps
+rx_byte: 1691505726, tx_byte: 1750044508
+rx_pkts_sec: 67697, tx_pkt_sec: 68966
+rx_pkts: 2218144, tx_pkts: 2291461
+rx_new_flow_sec: 12519, rx_new_flow_now: 422673
+2rx_new_flow_sec: 12520, 2rx_new_flow_now: 413079
+
+rx_throughput: 393 Mbps, tx_throughput: 401 Mbps
+rx_byte: 1743129838, tx_byte: 1802684528
+rx_pkts_sec: 68303, tx_pkt_sec: 69295
+rx_pkts: 2286447, tx_pkts: 2360756
+rx_new_flow_sec: 11333, rx_new_flow_now: 434006
+2rx_new_flow_sec: 11333, 2rx_new_flow_now: 424412
+
+rx_throughput: 397 Mbps, tx_throughput: 402 Mbps
+rx_byte: 1795263783, tx_byte: 1855405518
+rx_pkts_sec: 68831, tx_pkt_sec: 69544
+rx_pkts: 2355278, tx_pkts: 2430300
+rx_new_flow_sec: 11643, rx_new_flow_now: 445649
+2rx_new_flow_sec: 11643, 2rx_new_flow_now: 436055
+
+rx_throughput: 401 Mbps, tx_throughput: 408 Mbps
+rx_byte: 1847897316, tx_byte: 1908884202
+rx_pkts_sec: 68625, tx_pkt_sec: 69476
+rx_pkts: 2423903, tx_pkts: 2499776
+rx_new_flow_sec: 11314, rx_new_flow_now: 456963
+2rx_new_flow_sec: 11314, 2rx_new_flow_now: 447369
+
+rx_throughput: 410 Mbps, tx_throughput: 414 Mbps
+rx_byte: 1901669562, tx_byte: 1963264741
+rx_pkts_sec: 68619, tx_pkt_sec: 69331
+rx_pkts: 2492522, tx_pkts: 2569107
+rx_new_flow_sec: 10429, rx_new_flow_now: 467392
+2rx_new_flow_sec: 10427, 2rx_new_flow_now: 457796
+
+rx_throughput: 403 Mbps, tx_throughput: 408 Mbps
+rx_byte: 1954561390, tx_byte: 2016794398
+rx_pkts_sec: 69294, tx_pkt_sec: 69972
+rx_pkts: 2561816, tx_pkts: 2639079
+rx_new_flow_sec: 11445, rx_new_flow_now: 478837
+2rx_new_flow_sec: 11446, 2rx_new_flow_now: 469242
+
+rx_throughput: 394 Mbps, tx_throughput: 397 Mbps
+rx_byte: 2006227958, tx_byte: 2068892897
+rx_pkts_sec: 69387, tx_pkt_sec: 69878
+rx_pkts: 2631203, tx_pkts: 2708957
+rx_new_flow_sec: 11673, rx_new_flow_now: 490510
+2rx_new_flow_sec: 11674, 2rx_new_flow_now: 480916
+
+rx_throughput: 406 Mbps, tx_throughput: 409 Mbps
+rx_byte: 2059460192, tx_byte: 2122526512
+rx_pkts_sec: 69004, tx_pkt_sec: 69486
+rx_pkts: 2700207, tx_pkts: 2778443
+rx_new_flow_sec: 11568, rx_new_flow_now: 502078
+2rx_new_flow_sec: 11568, 2rx_new_flow_now: 492484
+
+rx_throughput: 393 Mbps, tx_throughput: 398 Mbps
+rx_byte: 2111017953, tx_byte: 2174728736
+rx_pkts_sec: 69233, tx_pkt_sec: 69893
+rx_pkts: 2769440, tx_pkts: 2848336
+rx_new_flow_sec: 12117, rx_new_flow_now: 514195
+2rx_new_flow_sec: 12115, 2rx_new_flow_now: 504599
+
+rx_throughput: 393 Mbps, tx_throughput: 397 Mbps
+rx_byte: 2162591808, tx_byte: 2226885019
+rx_pkts_sec: 69409, tx_pkt_sec: 70010
+rx_pkts: 2838849, tx_pkts: 2918346
+rx_new_flow_sec: 11624, rx_new_flow_now: 525819
+2rx_new_flow_sec: 11626, 2rx_new_flow_now: 516225
+
+rx_throughput: 389 Mbps, tx_throughput: 392 Mbps
+rx_byte: 2213666084, tx_byte: 2278276794
+rx_pkts_sec: 69665, tx_pkt_sec: 70061
+rx_pkts: 2908514, tx_pkts: 2988407
+rx_new_flow_sec: 11923, rx_new_flow_now: 537742
+2rx_new_flow_sec: 11923, 2rx_new_flow_now: 528148
+
+rx_throughput: 402 Mbps, tx_throughput: 406 Mbps
+rx_byte: 2266409780, tx_byte: 2331583550
+rx_pkts_sec: 69053, tx_pkt_sec: 69611
+rx_pkts: 2977567, tx_pkts: 3058018
+rx_new_flow_sec: 11257, rx_new_flow_now: 548999
+2rx_new_flow_sec: 11257, 2rx_new_flow_now: 539405
+
+rx_throughput: 400 Mbps, tx_throughput: 403 Mbps
+rx_byte: 2318933708, tx_byte: 2384412495
+rx_pkts_sec: 68792, tx_pkt_sec: 69204
+rx_pkts: 3046359, tx_pkts: 3127222
+rx_new_flow_sec: 11078, rx_new_flow_now: 560077
+2rx_new_flow_sec: 11078, 2rx_new_flow_now: 550483
+
+rx_throughput: 397 Mbps, tx_throughput: 400 Mbps
+rx_byte: 2371091393, tx_byte: 2436935527
+rx_pkts_sec: 68790, tx_pkt_sec: 69222
+rx_pkts: 3115149, tx_pkts: 3196444
+rx_new_flow_sec: 11406, rx_new_flow_now: 571483
+2rx_new_flow_sec: 11406, 2rx_new_flow_now: 561889
+
+rx_throughput: 403 Mbps, tx_throughput: 406 Mbps
+rx_byte: 2423948205, tx_byte: 2490215493
+rx_pkts_sec: 68744, tx_pkt_sec: 69213
+rx_pkts: 3183893, tx_pkts: 3265657
+rx_new_flow_sec: 11535, rx_new_flow_now: 583018
+2rx_new_flow_sec: 11533, 2rx_new_flow_now: 573422
+
+rx_throughput: 402 Mbps, tx_throughput: 404 Mbps
+rx_byte: 2476706824, tx_byte: 2543252043
+rx_pkts_sec: 68748, tx_pkt_sec: 69174
+rx_pkts: 3252641, tx_pkts: 3334831
+rx_new_flow_sec: 10976, rx_new_flow_now: 593994
+2rx_new_flow_sec: 10975, 2rx_new_flow_now: 584397
+
+rx_throughput: 398 Mbps, tx_throughput: 400 Mbps
+rx_byte: 2528883618, tx_byte: 2595724222
+rx_pkts_sec: 69368, tx_pkt_sec: 69744
+rx_pkts: 3322009, tx_pkts: 3404575
+rx_new_flow_sec: 11224, rx_new_flow_now: 605218
+2rx_new_flow_sec: 11227, 2rx_new_flow_now: 595624
+
+rx_throughput: 402 Mbps, tx_throughput: 404 Mbps
+rx_byte: 2581589484, tx_byte: 2648773944
+rx_pkts_sec: 68856, tx_pkt_sec: 69266
+rx_pkts: 3390865, tx_pkts: 3473841
+rx_new_flow_sec: 12166, rx_new_flow_now: 617384
+2rx_new_flow_sec: 12163, 2rx_new_flow_now: 607787
+
+rx_throughput: 398 Mbps, tx_throughput: 401 Mbps
+rx_byte: 2633827895, tx_byte: 2701428444
+rx_pkts_sec: 68988, tx_pkt_sec: 69401
+rx_pkts: 3459853, tx_pkts: 3543242
+rx_new_flow_sec: 11712, rx_new_flow_now: 629096
+2rx_new_flow_sec: 11715, 2rx_new_flow_now: 619502
+
+rx_throughput: 397 Mbps, tx_throughput: 399 Mbps
+rx_byte: 2685895786, tx_byte: 2753851300
+rx_pkts_sec: 68982, tx_pkt_sec: 69416
+rx_pkts: 3528835, tx_pkts: 3612658
+rx_new_flow_sec: 11316, rx_new_flow_now: 640412
+2rx_new_flow_sec: 11316, 2rx_new_flow_now: 630818
+
+rx_throughput: 403 Mbps, tx_throughput: 405 Mbps
+rx_byte: 2738844184, tx_byte: 2807012371
+rx_pkts_sec: 68914, tx_pkt_sec: 69235
+rx_pkts: 3597749, tx_pkts: 3681893
+rx_new_flow_sec: 10917, rx_new_flow_now: 651329
+2rx_new_flow_sec: 10916, 2rx_new_flow_now: 641734
+
+rx_throughput: 406 Mbps, tx_throughput: 408 Mbps
+rx_byte: 2792142532, tx_byte: 2860594951
+rx_pkts_sec: 68603, tx_pkt_sec: 68912
+rx_pkts: 3666352, tx_pkts: 3750805
+rx_new_flow_sec: 10657, rx_new_flow_now: 661986
+2rx_new_flow_sec: 10655, 2rx_new_flow_now: 652389
+
+rx_throughput: 393 Mbps, tx_throughput: 396 Mbps
+rx_byte: 2843778216, tx_byte: 2912531838
+rx_pkts_sec: 69264, tx_pkt_sec: 69641
+rx_pkts: 3735616, tx_pkts: 3820446
+rx_new_flow_sec: 10941, rx_new_flow_now: 672927
+2rx_new_flow_sec: 10944, 2rx_new_flow_now: 663333
+
+in output file!!!!!!!!!!!!!!!!!!!!!!!!!!
+in output file done!!!!!
+rx_throughput: 339 Mbps, tx_throughput: 340 Mbps
+rx_byte: 2888230347, tx_byte: 2957161110
+rx_pkts_sec: 59341, tx_pkt_sec: 59554
+rx_pkts: 3794957, tx_pkts: 3880000
+rx_new_flow_sec: 9441, rx_new_flow_now: 682368
+2rx_new_flow_sec: 9441, 2rx_new_flow_now: 672774
+
+rx_throughput: 6 Mbps, tx_throughput: 6 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 1026, tx_pkt_sec: 1027
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 112, rx_new_flow_now: 682480
+2rx_new_flow_sec: 112, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 2889101254, tx_byte: 2958031029
+rx_pkts_sec: 0, tx_pkt_sec: 0
+rx_pkts: 3795983, tx_pkts: 3881027
+rx_new_flow_sec: 0, rx_new_flow_now: 682480
+2rx_new_flow_sec: 0, 2rx_new_flow_now: 672886
+
+rx_throughput: 0 Mbps, tx_throughput: 0 Mbps
+rx_byte: 
