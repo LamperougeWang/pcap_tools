@@ -44,7 +44,7 @@ for count in range(flow_count):
     for idx in range(3):
         new_pkt = Packet.copy(syn_pkts[idx])
         # print(syn_pkts[idx][IP].src)
-        if new_pkt[IP].src == "101.6.30.128":
+        if new_pkt[IP].src == SERVERIP:
             new_pkt[IP].src = ip_src_array[count]
             new_pkt[IP].dst = ip_dst_array[count]
             new_pkt[TCP].sport = port_src_array[count]
@@ -60,8 +60,8 @@ print("SYN packets has been processed.")
 
 # for idx in range(packet_count):
     # pkt = pcap_reader.read_packet()
-    # pkt[Ether].src = "68:91:D0:61:B4:C5"
-    # pkt[Ether].dst = "48:6E:73:00:04:DB"
+    # pkt[Ether].src = MAC1
+    # pkt[Ether].dst = MAC2
     # pcap_writer.write(pkt)
     # if (idx + 1) % 10000 == 0:
         # print("%d packet has been processed\n" % (idx + 1))
@@ -76,7 +76,7 @@ for count in range(packet_count):
     num_rnd = random.randint(0, flow_count - 1)
     for idx in range(8):
         new_pkt = Packet.copy(http_pkts[idx])
-        if new_pkt[IP].src == "101.6.30.128":
+        if new_pkt[IP].src == SERVERIP:
             new_pkt[IP].src = ip_src_array[num_rnd]
             new_pkt[IP].dst = ip_dst_array[num_rnd]
             new_pkt[TCP].sport = port_src_array[num_rnd]
@@ -105,7 +105,7 @@ for idx in range(3):
 for count in range(flow_count):
     for idx in range(3):
         new_pkt = Packet.copy(fin_pkts[idx])
-        if new_pkt[IP].src == "101.6.30.128":
+        if new_pkt[IP].src == SEVERIP:
             new_pkt[IP].src = ip_src_array[count]
             new_pkt[IP].dst = ip_dst_array[count]
             new_pkt[TCP].sport = port_src_array[count]
