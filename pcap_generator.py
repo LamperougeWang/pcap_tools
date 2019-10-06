@@ -6,6 +6,7 @@ from scapy.all import *
 import random
 import sys
 
+SERVERIP = 'your ip'
 packet_count = 1000
 flow_count = 50
 packet_size = 64
@@ -15,7 +16,7 @@ port_src_array = []
 port_dst_array = []
 
 # pkt_reader = PcapReader(sys.argv[1])
-pcap_reader = PcapReader("../baidutcp.pcap")
+pcap_reader = PcapReader("../xxxx.pcap")
 pcap_writer = PcapWriter("./flow1w.pcap")
 
 for idx in range(flow_count):
